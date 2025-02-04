@@ -1,0 +1,5 @@
+* twitter.com * block
+* twimg.com * block
+* twttr.net * block
+* twttr.com * block
+* abs.twimg.com * block
