@@ -1,0 +1,5 @@
+* amazon.com * block
+* amazonaws.com * block
+* amazonaws.cn * block
+* cloudfront.net * block
+* elasticbeanstalk.com * block
