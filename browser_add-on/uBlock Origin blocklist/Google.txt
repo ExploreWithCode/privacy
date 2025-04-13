@@ -1,0 +1,916 @@
+* google.com * block
+* googleusercontent.com * block
+* gstatic.com * block
+* google-analytics.com * block
+* googlevideo.com * block
+* googleapis.com * block
+* doubleclick.net * block
+
+* googletagmanager.com * block
+
+* youtube.com * block
+* ytimg.com * block
+
+# below from ISC public suffix list
+* appspot.com * block
+* blogspot.ae * block
+* blogspot.al * block
+* blogspot.am * block
+* blogspot.ba * block
+* blogspot.be * block
+* blogspot.bg * block
+* blogspot.bj * block
+* blogspot.ca * block
+* blogspot.cf * block
+* blogspot.ch * block
+* blogspot.cl * block
+* blogspot.co.at * block
+* blogspot.co.id * block
+* blogspot.co.il * block
+* blogspot.co.ke * block
+* blogspot.co.nz * block
+* blogspot.co.uk * block
+* blogspot.co.za * block
+* blogspot.com * block
+* blogspot.com.ar * block
+* blogspot.com.au * block
+* blogspot.com.br * block
+* blogspot.com.by * block
+* blogspot.com.co * block
+* blogspot.com.cy * block
+* blogspot.com.ee * block
+* blogspot.com.eg * block
+* blogspot.com.es * block
+* blogspot.com.mt * block
+* blogspot.com.ng * block
+* blogspot.com.tr * block
+* blogspot.com.uy * block
+* blogspot.cv * block
+* blogspot.cz * block
+* blogspot.de * block
+* blogspot.dk * block
+* blogspot.fi * block
+* blogspot.fr * block
+* blogspot.gr * block
+* blogspot.hk * block
+* blogspot.hr * block
+* blogspot.hu * block
+* blogspot.ie * block
+* blogspot.in * block
+* blogspot.is * block
+* blogspot.it * block
+* blogspot.jp * block
+* blogspot.kr * block
+* blogspot.li * block
+* blogspot.lt * block
+* blogspot.lu * block
+* blogspot.md * block
+* blogspot.mk * block
+* blogspot.mr * block
+* blogspot.mx * block
+* blogspot.my * block
+* blogspot.nl * block
+* blogspot.no * block
+* blogspot.pe * block
+* blogspot.pt * block
+* blogspot.qa * block
+* blogspot.re * block
+* blogspot.ro * block
+* blogspot.rs * block
+* blogspot.ru * block
+* blogspot.se * block
+* blogspot.sg * block
+* blogspot.si * block
+* blogspot.sk * block
+* blogspot.sn * block
+* blogspot.td * block
+* blogspot.tw * block
+* blogspot.ug * block
+* blogspot.vn * block
+* codespot.com * block
+* googleapis.com * block
+* googlecode.com * block
+* pagespeedmobilizer.com * block
+* withgoogle.com * block
+* withyoutube.com * block
+
+# via https://en.wikipedia.org/wiki/List_of_Google_domains
+
+# Samoa
+* google.ws * block
+
+# Vanuatu
+* google.vu * block
+
+# British Virgin Islands
+* google.vg * block
+
+# Trinidad and Tobago
+* google.tt * block
+
+# Tonga
+* google.to * block
+
+# Tunisia
+* google.tn * block
+
+# Turkmenistan
+* google.tm * block
+
+# Timor-Leste
+* google.tl * block
+
+# Tokelau
+* google.tk * block
+
+# Togo
+* google.tg * block
+
+# Chad
+* google.td * block
+
+# São Tomé and Príncipe
+* google.st * block
+
+# Suriname
+* google.sr * block
+
+# Somalia
+* google.so * block
+
+# Senegal
+* google.sn * block
+
+# San Marino
+* google.sm * block
+
+# Slovakia
+* google.sk * block
+
+# Slovenia
+* google.si * block
+
+# Saint Helena, Ascension and Tristan da Cunha
+* google.sh * block
+
+# Sweden
+* google.se * block
+
+# Seychelles
+* google.sc * block
+
+# Rwanda
+* google.rw * block
+
+# Russia
+* google.ru * block
+
+# Serbia
+* google.rs * block
+
+# Romania
+* google.ro * block
+
+# Portugal
+* google.pt * block
+
+# Palestine
+* google.ps * block
+
+# Pitcairn Islands
+* google.pn * block
+
+# Poland
+* google.pl * block
+
+# Niue
+* google.nu * block
+
+# Nauru
+* google.nr * block
+
+# Norway
+* google.no * block
+
+# Netherlands
+* google.nl * block
+
+# Niger
+* google.ne * block
+
+# Malawi
+* google.mw * block
+
+# Maldives
+* google.mv * block
+
+# Mauritius
+* google.mu * block
+
+# Montserrat
+* google.ms * block
+
+# Mongolia
+* google.mn * block
+
+# Mali
+* google.ml * block
+
+# Macedonia
+* google.mk * block
+
+# Madagascar
+* google.mg * block
+
+# Montenegro
+* google.me * block
+
+# Moldova
+* google.md * block
+
+# Latvia
+* google.lv * block
+
+# Luxembourg
+* google.lu * block
+
+# Lithuania
+* google.lt * block
+
+# Sri Lanka
+* google.lk * block
+
+# Liechtenstein
+* google.li * block
+
+# Laos
+* google.la * block
+
+# Kazakhstan
+* google.kz * block
+
+# Kiribati
+* google.ki * block
+
+# Kyrgyzstan
+* google.kg * block
+
+# Jordan
+* google.jo * block
+
+# Jersey
+* google.je * block
+
+# Italy
+* google.it * block
+
+# Iceland
+* google.is * block
+
+# Iraq
+* google.iq * block
+
+# British Indian Ocean Territory
+* google.io * block
+
+# Isle of Man
+* google.im * block
+
+# Ireland
+* google.ie * block
+
+# Hungary
+* google.hu * block
+
+# Haiti
+* google.ht * block
+
+# Croatia
+* google.hr * block
+
+# Honduras
+* google.hn * block
+
+# Guyana
+* google.gy * block
+
+# Greece
+* google.gr * block
+
+# Guadeloupe
+* google.gp * block
+
+# Gambia
+* google.gm * block
+
+# Greenland
+* google.gl * block
+
+# Guernsey
+* google.gg * block
+
+# French Guiana
+* google.gf * block
+
+# Georgia
+* google.ge * block
+
+# Gabon
+* google.ga * block
+
+# France
+* google.fr * block
+
+# Federated States of Micronesia
+* google.fm * block
+
+# Finland
+* google.fi * block
+
+# Spain
+* google.es * block
+
+# Estonia
+* google.ee * block
+
+# Algeria
+* google.dz * block
+
+# Dominica
+* google.dm * block
+
+# Denmark
+* google.dk * block
+
+# Djibouti
+* google.dj * block
+
+# Germany
+* google.de * block
+
+# Czech Republic
+* google.cz * block
+
+# Cape Verde
+* google.cv * block
+
+# Vietnam
+* google.com.vn * block
+
+# Saint Vincent and the Grenadines
+* google.com.vc * block
+
+# Uruguay
+* google.com.uy * block
+
+# Ukraine
+* google.com.ua * block
+
+# Taiwan
+* google.com.tw * block
+
+# Turkey
+* google.com.tr * block
+
+# Tajikistan
+* google.com.tj * block
+
+# El Salvador
+* google.com.sv * block
+
+# Sierra Leone
+* google.com.sl * block
+
+# Singapore
+* google.com.sg * block
+
+# Solomon Islands
+* google.com.sb * block
+
+# Saudi Arabia
+* google.com.sa * block
+
+# Qatar
+* google.com.qa * block
+
+# Paraguay
+* google.com.py * block
+
+# Puerto Rico
+* google.com.pr * block
+
+# Pakistan
+* google.com.pk * block
+
+# Philippines
+* google.com.ph * block
+
+# Papua New Guinea
+* google.com.pg * block
+
+# Peru
+* google.com.pe * block
+
+# Panama
+* google.com.pa * block
+
+# Oman
+* google.com.om * block
+
+# Nepal
+* google.com.np * block
+
+# Nicaragua
+* google.com.ni * block
+
+# Nigeria
+* google.com.ng * block
+
+# Norfolk Island
+* google.com.nf * block
+
+# Namibia
+* google.com.na * block
+
+# Malaysia
+* google.com.my * block
+
+# Mexico
+* google.com.mx * block
+
+# Malta
+* google.com.mt * block
+
+# Myanmar
+* google.com.mm * block
+
+# Libya
+* google.com.ly * block
+
+# Saint Lucia
+* google.com.lc * block
+
+# Lebanon
+* google.com.lb * block
+
+# Kuwait
+* google.com.kw * block
+
+# Cambodia
+* google.com.kh * block
+
+# Jamaica
+* google.com.jm * block
+
+# Hong Kong
+* google.com.hk * block
+
+# Guatemala
+* google.com.gt * block
+
+# Gibraltar
+* google.com.gi * block
+
+# Ghana
+* google.com.gh * block
+
+# Fiji
+* google.com.fj * block
+
+# Ethiopia
+* google.com.et * block
+
+# Egypt
+* google.com.eg * block
+
+# Ecuador
+* google.com.ec * block
+
+# Dominican Republic
+* google.com.do * block
+
+# Cyprus
+* google.com.cy * block
+
+# Cuba
+* google.com.cu * block
+
+# Colombia
+* google.com.co * block
+
+# Belize
+* google.com.bz * block
+
+# Brazil
+* google.com.br * block
+
+# Bolivia
+* google.com.bo * block
+
+# Brunei
+* google.com.bn * block
+
+# Bahrain
+* google.com.bh * block
+
+# Bangladesh
+* google.com.bd * block
+
+# Australia
+* google.com.au * block
+
+# Argentina
+* google.com.ar * block
+
+# Anguilla
+* google.com.ai * block
+
+# Antigua and Barbuda
+* google.com.ag * block
+
+# Afghanistan
+* google.com.af * block
+
+# Worldwide (Original for the United States)
+* google.com * block
+
+# United States
+* google.com * block
+
+# Zimbabwe
+* google.co.zw * block
+
+# Zambia
+* google.co.zm * block
+
+# South Africa
+* google.co.za * block
+
+# United States Virgin Islands
+* google.co.vi * block
+
+# Venezuela
+* google.co.ve * block
+
+# Uzbekistan
+* google.co.uz * block
+
+# United Kingdom
+* google.co.uk * block
+
+# Uganda
+* google.co.ug * block
+
+# Tanzania
+* google.co.tz * block
+
+# Thailand
+* google.co.th * block
+
+# Pitcairn Islands
+* google.co.pn * block
+
+# New Zealand
+* google.co.nz * block
+
+# Mozambique
+* google.co.mz * block
+
+# Morocco
+* google.co.ma * block
+
+# Lesotho
+* google.co.ls * block
+
+# South Korea
+* google.co.kr * block
+
+# Kenya
+* google.co.ke * block
+
+# Japan
+* google.co.jp * block
+
+# India
+* google.co.in * block
+
+# Israel
+* google.co.il * block
+
+# Indonesia
+* google.co.id * block
+
+# Costa Rica
+* google.co.cr * block
+
+# Cook Islands
+* google.co.ck * block
+
+# Botswana
+* google.co.bw * block
+
+# Angola
+* google.co.ao * block
+
+# China
+* google.cn * block
+
+# Cameroon
+* google.cm * block
+
+# Chile
+* google.cl * block
+
+# Ivory Coast
+* google.ci * block
+
+# Switzerland
+* google.ch * block
+
+# Republic of the Congo
+* google.cg * block
+
+# Central African Republic
+* google.cf * block
+
+# Democratic Republic of the Congo
+* google.cd * block
+
+# Cocos (Keeling) Islands
+* google.cc * block
+
+# Catalan Countries
+* google.cat * block
+
+# Canada
+* google.ca * block
+
+# Belarus
+* google.by * block
+
+# Bhutan
+* google.bt * block
+
+# Bahamas
+* google.bs * block
+
+# Benin
+* google.bj * block
+
+# Burundi
+* google.bi * block
+
+# Bulgaria
+* google.bg * block
+
+# Burkina Faso
+* google.bf * block
+
+# Belgium
+* google.be * block
+
+# Bosnia and Herzegovina
+* google.ba * block
+
+# Azerbaijan
+* google.az * block
+
+# Austria
+* google.at * block
+
+# American Samoa
+* google.as * block
+
+# Armenia
+* google.am * block
+
+# Albania
+* google.al * block
+
+# United Arab Emirates
+* google.ae * block
+
+# Andorra
+* google.ad * block
+
+# Ascension Island
+* google.ac * block
+
+# China
+* g.cn * block
+ 
+#YouTube
+* ytimg.com * block
+ 
+#YouTube
+* yt.be * block
+ 
+#YouTube
+* youtubegaming.com * block
+ 
+#YouTube
+* youtubeeducation.com * block
+ 
+#YouTube
+* youtube.com * block
+ 
+#YouTube
+* youtube-nocookie.com * block
+ 
+#YouTube
+* youtu.be * block
+ 
+#Google
+* withgoogle.com * block
+ 
+#What Browser?
+* whatbrowser.org * block
+ 
+#Waze
+* waze.com * block
+ 
+#Google Analytics
+* urchin.com * block
+ 
+#SketchUp
+* sketchup.com * block
+ 
+#Picasa
+* picasa.com * block
+ 
+#Panoramio
+* panoramio.com * block
+ 
+#Made with Code
+* madewithcode.com * block
+ 
+#Google
+* localhost.com * block
+ 
+#Google
+* like.com * block
+ 
+#Keyhole
+* keyhole.com * block
+ 
+#iGoogle
+* igoogle.com * block
+ 
+#Google
+* gooogle.com * block
+ 
+#Google
+* goolge.com * block
+ 
+#Google
+* googlr.com * block
+ 
+#Google
+* googlesyndication.com * block
+ 
+#Google Developer Source
+* googlesource.com * block
+ 
+#Google Scholar
+* googlescholar.com * block
+ 
+#Google Page Creator
+* googlepagecreator.com * block
+ 
+#Google Members
+* googlemembers.com * block
+ 
+#Google Member
+* googlemember.com * block
+ 
+#Google Maps
+* googlemaps.com * block
+ 
+#Gmail
+* googlemail.com * block
+ 
+#Google Earth
+* googleearth.com * block
+ 
+#Google
+* googlee.com * block
+ 
+#Google Drive
+* googledrive.com * block
+ 
+#Google
+* googlecommerce.com * block
+ 
+#Google Code
+* googlecode.com * block
+ 
+#Google
+* googlebot.com * block
+ 
+#Google Earth
+* googlearth.com * block
+ 
+#Google Apps for Work
+* googleapps.com * block
+ 
+#Google
+* googleapis.com * block
+ 
+#Google Analytics
+* googleanalytics.com * block
+ 
+#Google
+* googleadservices.com * block
+ 
+#Google.org
+* google.org * block
+ 
+#Google
+* google.net * block
+ 
+#Google Analytics
+* google-analytics.com * block
+ 
+#Google
+* googl.com * block
+ 
+#Google
+* googil.com * block
+ 
+#Google
+* googel.com * block
+ 
+#Google URL Shortener
+* goo.gl * block
+ 
+#Google
+* gogole.com * block
+ 
+#Google
+* gogle.com * block
+ 
+#Google
+* gmodules.com * block
+ 
+#Gmail
+* gmail.com * block
+ 
+#?
+* ggpht.com * block
+ 
+#Google
+* ggoogle.com * block
+ 
+#Google
+* g.co * block
+ 
+#Froogle
+* froogle.com * block
+ 
+#Google
+* foofle.com * block
+ 
+#FeedBurner
+* feedburner.com * block
+ 
+#DoubleClick
+* doubleclick.com * block
+ 
+#elgooG
+* com.google * block
+ 
+#Google
+* cobrasearch.com * block
+ 
+#Chromium
+* chromium.org * block
+ 
+#Chromebook
+* chromebook.com * block
+ 
+#Google Chrome
+* chrome.com * block
+ 
+#Blogger
+* blogspot.com * block
+ 
+#Blogger
+* blogger.com * block
+ 
+#Android
+* android.com * block
+ 
+#AdWords
+* adwords.com * block
+ 
+#AdSense
+* adsense.com * block
+ 
+#AdMob
+* admob.com * block
+ 
+#Google
+* 466453.com * block
+
+#Google Nest Community
+* googlenestcommunity.com * block
