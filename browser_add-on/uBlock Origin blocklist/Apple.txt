@@ -1,0 +1,32 @@
+* apple.com * block
+* mac.com * block
+
+* apple-dns.net * block
+
+* airport.com * block
+* applecomputer.com * block
+* appleimac.com * block
+* buy-different.com * block
+* buyappl.com * block
+* carbon.com * block
+* desktopmovie.com * block
+* digitalhub.com * block
+* dvdstudiopro.com * block
+* firewire.org * block
+* imac.com * block
+* iphone.org * block
+* ipodrocks.com * block
+* publishingresearch.com * block
+* publishingsurvey.com * block
+* xserve.com * block
+* xserve.net * block
+
+* iwork.com * block
+* ichat.com * block
+* applemusic.com * block
+* finalcutpro.com * block
+* ipod.com * block
+* itunes.com * block
+* quicktime.com * block
+
+* kts-af.net * block
