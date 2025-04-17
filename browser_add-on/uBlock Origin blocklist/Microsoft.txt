@@ -1,0 +1,10 @@
+* microsoft.com * block
+* azurewebsites.net * block
+* azure-mobile.net * block
+* cloudapp.net * block
+* microsoftproductionstudios.org * block
+* visualstudio.com * block
+* vscode.dev * block
+
+* microsoftonline.com * block
+* msauth.net * block
